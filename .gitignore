@@ -1,0 +1,31 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Raw data (often large; track separately or via README instructions)
+data/raw/*
+!data/raw/.gitkeep
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Environment variables / secrets
+.env
+
+# Jupyter
+*.ipynb_checkpoints
+
+# Editor
+.vscode/
+.idea/
