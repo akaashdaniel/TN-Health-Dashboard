@@ -1,4 +1,3 @@
-@"
 ---
 title: TN Health Dashboard
 emoji: 🏥
@@ -13,4 +12,3 @@ pinned: false
 # Tamil Nadu Health Dashboard
 
 Interactive district-level health dashboard for Tamil Nadu using NHM HMIS data 2018-19.
-"@ | Out-File -FilePath README.md -Encoding utf8
